@@ -1,3 +1,6 @@
 # ui-ux-design
    
-Programming using html css javascript
+Web page design using html css javascript
+   
+I used j query and bootstrap.
+
